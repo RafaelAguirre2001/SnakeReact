@@ -15,3 +15,6 @@ a travé del comando
 luego iras al navegador y colocaras  [http://localhost:3000](http://localhost:3000)  o  [http://localhost:3001](http://localhost:3001) 
 
 ![image](https://user-images.githubusercontent.com/121703302/210159408-7869ffa2-f2de-4ed9-9826-12493c407e65.png)
+
+
+![image](https://user-images.githubusercontent.com/121703302/210159425-e2a4713a-99ad-4a4b-b0a6-ea7d3650aecf.png)
