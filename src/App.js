@@ -136,7 +136,7 @@ class App extends Component {
   };
 
   gameOver() {
-    alert(`GAME OVER, your score is ${this.state.snakeDots.length - 2}`);
+    alert(`Juego Terminado tu Score es, ${this.state.snakeDots.length - 2}`);
     this.setState(initialState);
   }
 
